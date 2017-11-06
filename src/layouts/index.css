@@ -48,8 +48,8 @@ img {
   max-width: 400px;
 }
 
-.contact-list ul {
-  padding: 0
+.contact-list {
+  padding: 0;
 }
 
 .contact-list li {
