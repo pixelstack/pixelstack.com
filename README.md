@@ -1,13 +1,17 @@
-# gatsby-starter-default
-The default Gatsby starter
+# README
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+## Development Dependencies
+- Node
+- GatsbyJS
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
+## Setup
+- Clone repository
+- run npm install
 
-## Deploy
+## Local Development
+- Run gatsby develop to start the development environment on port 8000
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+## Build
+- Run gatsby build which will generate an optimized and production ready
+  version of the site
+- gatsby serve will start a local HTML server for testing the built site
