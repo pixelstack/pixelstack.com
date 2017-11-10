@@ -8,7 +8,7 @@ const IndexPage = () => (
     <p>Building solutions to your digital problems<br />through websites and web applications</p>
     <ul className='contact-list'>
       <li><a href="mailto:hello@pixelstack.com">Contact</a></li>
-      <li><a href="twitter.com/pixelstackcom">Twitter</a></li>
+      <li><a href="https://twitter.com/pixelstackcom" target="_blank">Twitter</a></li>
     </ul>
   </section>
 )
